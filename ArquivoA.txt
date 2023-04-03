@@ -5,3 +5,4 @@ Commit para merge com conflito Main
 =======
 >>>>>>> MateusCosta
 Alteracao A
+Alteração Merge conflito main
