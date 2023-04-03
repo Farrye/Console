@@ -1,3 +1,6 @@
 Mateus Costa
+<<<<<<< HEAD
 Alteração do Arquivo na Branch main
 Commit para merge com conflito Main
+=======
+>>>>>>> MateusCosta
